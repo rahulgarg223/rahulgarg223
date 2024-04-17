@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Rahul Garg, a b.tech student at IIT Jodhpur . I am a tech enthusiast and competitive programmer . Love to learn tech stuff. 
 
 <!--
 **rahulgarg223/rahulgarg223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
