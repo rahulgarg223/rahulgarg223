@@ -2,8 +2,12 @@
 <h1 align="center">Hi 👋, I'm Rahul Garg</h1>
 <h3 align="center">A Machine Learning Enthusiastic and Coder from India</h3>
 
-<img alt="Coding" width="400" align="right" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgarg223&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgarg223" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=rahulgarg223&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgarg223" />
+</p>
+<p align="right">
+    <img alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif" />
+</p>
 
 - 🔭 I’m currently working on **Sudoku Solver**
 
