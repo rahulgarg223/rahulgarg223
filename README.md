@@ -1,7 +1,7 @@
 Hi there, I'm Rahul Garg 👋
 
 About Me
-🌱 I’m currently learning back end developement.
+🌱 I’m currently learning back end developement.<br>
 💼 I’m currently studying BTech at Indian Institute of Technology at Jodhpur.
 🤔 I’m looking for help with ...
 📫 How to reach me: rahulgarg5514@gmail.com
