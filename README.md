@@ -1,7 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rahulgarg223.io)
 <h1 align="center">Hi 👋, I'm Rahul Garg</h1>
 <h3 align="center">A Machine Learning Enthusiastic and Coder from India</h3>
-
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=rahulgarg223&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgarg223" />
+</p>
 
 <p align="right">
     <img alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbURLd1YzMjlvTkM3enQzYnVCQy1qb1RfZXlBd3xBQ3Jtc0ttUDFsUnpJRjc4bFlHZlBNcTMzc0pwU3k2WTRfdVROYXJleE4wTjlmdjBLaXE5eHkwQTVoek0tV0NJbE1VaUlvSXJxenNQeXpZM0J3WVpXR0IxZVlwc25GZTFvT3lNVHEtQmItM0FRajdvNUtnZ2NFOA&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE" />
