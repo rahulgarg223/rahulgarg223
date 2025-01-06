@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Sudoku Solver**
+- 🔭 I’m currently working on **Real Time Movie Ticket Booking System Like BookMyShow**
 
 - 🌱 I’m currently learning **React**
 
