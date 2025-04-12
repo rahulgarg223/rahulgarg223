@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rahulgarg223.io)
 <h1 align="center">Hi 👋, I'm Rahul Garg</h1>
-<h3 align="center">A Machine Learning Enthusiastic and Coder from India</h3>
+<h3 align="center">Love to Learn and Code!</h3>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=rahulgarg223&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgarg223" />
 </p>
