@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Sign Language Digits Recognition**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **b22ch025@iitj.ac.in**
 
