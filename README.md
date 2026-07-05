@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 📫 How to reach me **b22ch025@iitj.ac.in**
+- 📫 How to reach me **rahulgarg5514@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
