@@ -63,7 +63,7 @@
 An interactive dashboard analyzing employee data to surface attrition trends, satisfaction drivers, and workforce insights for HR decision-making.
 
 **Tech:** Python, Pandas, Power BI/Tableau  
-🔗 [View Repository](https://github.com/YOUR-GITHUB-USERNAME/hr-analytics-dashboard)
+🔗 [View Repository](https://github.com/rahulgarg223/Employee-Data-Analytics-using-Power-BI)
 </details>
 
 <details>
@@ -72,7 +72,7 @@ An interactive dashboard analyzing employee data to surface attrition trends, sa
 End-to-end analysis of e-commerce sales data — customer segmentation, sales trends, and product performance insights.
 
 **Tech:** Python, SQL, Pandas, Matplotlib/Seaborn  
-🔗 [View Repository](https://github.com/YOUR-GITHUB-USERNAME/ecommerce-store-analysis)
+🔗 [View Repository](https://github.com/rahulgarg223/Data-Analysis-of-E-Commerce-Store-using-POWER-BI)
 </details>
 
 <details>
@@ -81,7 +81,7 @@ End-to-end analysis of e-commerce sales data — customer segmentation, sales tr
 A deep learning model using LSTM networks to forecast stock prices based on historical time-series data.
 
 **Tech:** Python, TensorFlow, Keras, NumPy, Pandas  
-🔗 [View Repository](https://github.com/YOUR-GITHUB-USERNAME/stock-price-prediction-lstm)
+🔗 [View Repository](https://github.com/rahulgarg223/Stock-Price-Prediction-Project)
 </details>
 
 ---
