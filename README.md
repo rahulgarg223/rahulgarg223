@@ -1,26 +1,96 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rahulgarg223.io)
-<h1 align="center">Hi 👋, I'm Rahul Garg</h1>
-<h3 align="center">Love to Learn and Code!</h3>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=rahulgarg223&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgarg223" />
+<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h3 align="center">Chemical Engineering @ IIT Jodhpur | Data Analytics • Machine Learning • Web Dev</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+Chemical+Engineering+Student;Data+Analytics+%26+ML+Enthusiast;Competitive+Programmer+on+Codeforces+%26+LeetCode;Building+cool+things+with+data+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
-
-
-- 🔭 I’m currently working on **Sign Language Digits Recognition**
-
-- 🌱 I’m currently learning **SQL**
-
-- 📫 How to reach me **rahulgarg5514@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/YOUR-CODEFORCES-USERNAME"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgarg223&show_icons=true&locale=en&layout=compact" alt="rahulgarg223" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgarg223&show_icons=true&locale=en" alt="rahulgarg223" /></p>
+- 🎓 B.Tech in **Chemical Engineering** at **IIT Jodhpur**
+- 💼 Former **Data Analytics Intern** at **LeMiCi IQ**
+- 🧠 Passionate about **Data Analytics**, **Machine Learning**, and **Software/Web Development**
+- 🏆 Solving problems on **Codeforces** and **LeetCode**
+- 🌱 Currently building out my personal **portfolio website**
+- 📫 Reach me on **LinkedIn** or via email above
 
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,sklearn,pandas,numpy,mysql,html,css,js,react,git,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<details>
+<summary><b>📈 HR Analytics Dashboard</b> — click to expand</summary>
+<br>
+An interactive dashboard analyzing employee data to surface attrition trends, satisfaction drivers, and workforce insights for HR decision-making.
+
+**Tech:** Python, Pandas, Power BI/Tableau  
+🔗 [View Repository](https://github.com/YOUR-GITHUB-USERNAME/hr-analytics-dashboard)
+</details>
+
+<details>
+<summary><b>🛒 E-Commerce Store Analysis</b> — click to expand</summary>
+<br>
+End-to-end analysis of e-commerce sales data — customer segmentation, sales trends, and product performance insights.
+
+**Tech:** Python, SQL, Pandas, Matplotlib/Seaborn  
+🔗 [View Repository](https://github.com/YOUR-GITHUB-USERNAME/ecommerce-store-analysis)
+</details>
+
+<details>
+<summary><b>📉 Stock Price Prediction Model (LSTM)</b> — click to expand</summary>
+<br>
+A deep learning model using LSTM networks to forecast stock prices based on historical time-series data.
+
+**Tech:** Python, TensorFlow, Keras, NumPy, Pandas  
+🔗 [View Repository](https://github.com/YOUR-GITHUB-USERNAME/stock-price-prediction-lstm)
+</details>
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat" alt="profile views" />
+</p>
+
+<p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i></p>
