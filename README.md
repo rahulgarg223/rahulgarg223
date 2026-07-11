@@ -18,7 +18,7 @@
 
 - 🎓 B.Tech in **Chemical Engineering** at **IIT Jodhpur**
 - 💼 Former **Data Analytics Intern** at **LeMiCi IQ**
-- 🧠 Passionate about **Data Analytics**, **Machine Learning**, and **Software/Web Development**
+- 🧠 Passionate about **Data Analytics**, **Machine Learning**, and **Data Science**
 - 🏆 Solving problems on **Codeforces** and **LeetCode**
 - 🌱 Currently building out my personal **portfolio website**
 - 📫 Reach me on **LinkedIn** or via email above
