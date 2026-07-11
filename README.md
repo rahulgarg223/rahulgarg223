@@ -89,7 +89,7 @@ A deep learning model using LSTM networks to forecast stock prices based on hist
 ### 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rahulgarg223&color=blue&style=flat" alt="profile views" />
 </p>
 
 <p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i></p>
