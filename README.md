@@ -1,4 +1,4 @@
-<h1>                                      Hi 👋, I'm Rahul</h1>
+<h1> align="center" Hi 👋, I'm Rahul</h1>
 <h3 align="center">Chemical Engineering @ IIT Jodhpur | Data Analytics • Machine Learning • Data Science</h3>
 
 <p align="center">
