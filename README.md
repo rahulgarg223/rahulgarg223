@@ -30,8 +30,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,tensorflow,sklearn,mysql,html,css,js,git,vscode" />
-</p>
-<p align="left">
+  <br><br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,jupyter" />
 </p>
 
