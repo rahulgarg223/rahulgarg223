@@ -45,7 +45,12 @@
 </p>
 
 <h3>
-  <img src="https://github.com/user-attachments/assets/61edb89d-22b8-429c-9018-c0a0337d6f0e" width="28" height="36" alt="LeetCode"/> LeetCode Stats
+  <img src="https://github.com/user-attachments/assets/61edb89d-22b8-429c-9018-c0a0337d6f0e"
+       width="28"
+       height="26"
+       align="center"
+       alt="LeetCode">
+  LeetCode Stats
 </h3>
 
 <p align="center">
