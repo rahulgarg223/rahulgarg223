@@ -1,8 +1,6 @@
-<img width="960" height="420" alt="image" src="https://github.com/user-attachments/assets/ba48a8db-92d1-433a-a408-7f6e184252ae" />
-
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">Chemical Engineering @ IIT Jodhpur | Data Analytics • Machine Learning • Data Science</h3>
-
+<img width="960" height="420" alt="image" src="https://github.com/user-attachments/assets/ba48a8db-92d1-433a-a408-7f6e184252ae" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+Chemical+Engineering;IIT+Jodhpur+Alumnus;Data+Analytics+%26+ML+Enthusiast;Competitive+Programmer+on+Codeforces;Building+cool+things+with+data+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
