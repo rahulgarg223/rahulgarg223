@@ -29,7 +29,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,sklearn,mysql,html,css,js,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,mysql,html,css,js,git,vscode" />
   <br><br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,jupyter" />
 </p>
