@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-garg-a02972256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://rahulgarg223.github.io/rahulgarg223.github.io-portfolio/"><img width="217" height="148" alt="image" src="https://github.com/user-attachments/assets/7f8a9016-122c-4a8b-9d3d-5bf9418923f7" />
+  <a href="https://rahulgarg223.github.io/rahulgarg223.github.io-portfolio/"><img width="56" height="48" alt="image" src="https://github.com/user-attachments/assets/7f8a9016-122c-4a8b-9d3d-5bf9418923f7" />
 </a>
   <a href="https://leetcode.com/u/Tech_gamer31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://codeforces.com/profile/rahulgarg3104"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
