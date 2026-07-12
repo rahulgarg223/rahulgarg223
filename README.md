@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgarg223&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=rahulgarg223&theme=tokyonight" />
 </p>
 
 <p align="center">
