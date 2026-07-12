@@ -1,4 +1,4 @@
-<img width="54" height="28" alt="images" src="https://github.com/user-attachments/assets/6a430991-9086-4b96-b16b-114e9ec31e9b" /><h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1> Hi 👋, I'm Rahul</h1>
 <h3 align="center">Chemical Engineering @ IIT Jodhpur | Data Analytics • Machine Learning • Data Science</h3>
 
 <p align="center">
