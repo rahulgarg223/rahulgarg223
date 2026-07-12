@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<img width="54" height="28" alt="images" src="https://github.com/user-attachments/assets/6a430991-9086-4b96-b16b-114e9ec31e9b" /><h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">Chemical Engineering @ IIT Jodhpur | Data Analytics • Machine Learning • Data Science</h3>
 
 <p align="center">
@@ -45,8 +45,7 @@
 </p>
 
 <h3>
-  <img src="https://github.com/user-attachments/assets/61edb89d-22b8-429c-9018-c0a0337d6f0e" width="28" height="26" alt="LeetCode"/>
-  LeetCode Stats
+  <img src="https://github.com/user-attachments/assets/61edb89d-22b8-429c-9018-c0a0337d6f0e" width="28" height="26" alt="LeetCode"/> LeetCode Stats
 </h3>
 
 <p align="center">
