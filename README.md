@@ -44,7 +44,10 @@
   <img src="https://streak-stats.demolab.com/?user=rahulgarg223&theme=tokyonight" />
 </p>
 
-### <img width="28" height="26" alt="image" src="https://github.com/user-attachments/assets/61edb89d-22b8-429c-9018-c0a0337d6f0e" /> LeetCode Stats
+<h3>
+  <img src="https://github.com/user-attachments/assets/61edb89d-22b8-429c-9018-c0a0337d6f0e" width="28" height="26" alt="LeetCode"/>
+  LeetCode Stats
+</h3>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Tech_gamer31?theme=dark&font=Fira%20Code&ext=heatmap" />
