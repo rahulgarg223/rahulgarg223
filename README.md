@@ -46,8 +46,8 @@
 
 <h3>
   <img src="https://github.com/user-attachments/assets/61edb89d-22b8-429c-9018-c0a0337d6f0e"
-       width="28"
-       height="26"
+       width="30"
+       height="28"
        align="center"
        alt="LeetCode">
   LeetCode Stats
