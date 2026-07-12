@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Tech_gamer31?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Tech_gamer31" />
 </p>
 
 ---
