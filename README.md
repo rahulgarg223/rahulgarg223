@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+Chemical+Engineering;IIT+Jodhpur+Alumnus;Data+Analytics+%26+ML+Enthusiast;Competitive+Programmer+on+Codeforces;Building+cool+things+with+data+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
-<img width="1260" height="360" alt="image" src="https://github.com/user-attachments/assets/ba48a8db-92d1-433a-a408-7f6e184252ae" />
+<img width="1080" height="360" alt="image" src="https://github.com/user-attachments/assets/ba48a8db-92d1-433a-a408-7f6e184252ae" />
 
 
 <p align="center">
