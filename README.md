@@ -66,28 +66,45 @@
 <details>
 <summary><b>📈 HR Analytics Dashboard</b> — click to expand</summary>
 <br>
-An interactive dashboard analyzing employee data to surface attrition trends, satisfaction drivers, and workforce insights for HR decision-making.
 
-**Tech:** Python, Pandas, Power BI/Tableau  
+An interactive HR dashboard analyzing employee data to identify attrition trends, workforce demographics, and key HR performance indicators.
+
+**Tech:** Power BI, Power Query, DAX  
 🔗 [View Repository](https://github.com/rahulgarg223/Employee-Data-Analytics-using-Power-BI)
+
 </details>
 
 <details>
-<summary><b>🛒 E-Commerce Store Analysis</b> — click to expand</summary>
+<summary><b>🍕 Pizza Sales Analysis Dashboard</b> — click to expand</summary>
 <br>
-End-to-end analysis of e-commerce sales data — customer segmentation, sales trends, and product performance insights.
 
-**Tech:** Python, SQL, Pandas, Matplotlib/Seaborn  
-🔗 [View Repository](https://github.com/rahulgarg223/Data-Analysis-of-E-Commerce-Store-using-POWER-BI)
+A Business Intelligence dashboard analyzing pizza sales transactions to uncover revenue trends, customer purchasing patterns, and best/worst-performing products.
+
+**Tech:** MySQL, SQL, Power BI, Excel  
+🔗 [View Repository](https://github.com/rahulgarg223/Pizza-Sales-Report)
+
+</details>
+
+<details>
+<summary><b>🏥 Health Insurance Premium Prediction</b> — click to expand</summary>
+<br>
+
+A machine learning regression model predicting health insurance premium charges using demographic and lifestyle features such as age, BMI, smoking status, and region.
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Plotly  
+🔗 [View Repository](https://github.com/rahulgarg223/Health-Insurance-Premium-Prediction)
+
 </details>
 
 <details>
 <summary><b>📉 Stock Price Prediction Model (LSTM)</b> — click to expand</summary>
 <br>
+
 A deep learning model using LSTM networks to forecast stock prices based on historical time-series data.
 
 **Tech:** Python, TensorFlow, Keras, NumPy, Pandas  
 🔗 [View Repository](https://github.com/rahulgarg223/Stock-Price-Prediction-Project)
+
 </details>
 
 ---
