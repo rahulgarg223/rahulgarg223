@@ -63,16 +63,6 @@
 
 ### 📌 Featured Projects
 
-<details>
-<summary><b>📈 HR Analytics Dashboard</b> — click to expand</summary>
-<br>
-
-An interactive HR dashboard analyzing employee data to identify attrition trends, workforce demographics, and key HR performance indicators.
-
-**Tech:** Power BI, Power Query, DAX  
-🔗 [View Repository](https://github.com/rahulgarg223/Employee-Data-Analytics-using-Power-BI)
-
-</details>
 
 <details>
 <summary><b>🍕 Pizza Sales Analysis Dashboard</b> — click to expand</summary>
@@ -82,6 +72,17 @@ A Business Intelligence dashboard analyzing pizza sales transactions to uncover 
 
 **Tech:** MySQL, SQL, Power BI, Excel  
 🔗 [View Repository](https://github.com/rahulgarg223/Pizza-Sales-Report)
+
+</details>
+
+<details>
+<summary><b>📈 HR Analytics Dashboard</b> — click to expand</summary>
+<br>
+
+An interactive HR dashboard analyzing employee data to identify attrition trends, workforce demographics, and key HR performance indicators.
+
+**Tech:** Power BI, Power Query, DAX  
+🔗 [View Repository](https://github.com/rahulgarg223/Employee-Data-Analytics-using-Power-BI)
 
 </details>
 
