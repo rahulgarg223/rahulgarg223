@@ -21,7 +21,7 @@
 - 🧠 Passionate about **Data Analytics**, **Machine Learning**, and **Data Science**
 - 🏆 Solving problems on **Codeforces** and **LeetCode**
 - 🌱 Currently building out my personal **portfolio website**
-- 📫 Reach me on **LinkedIn** or via email above
+- 📫 Reach out to me through **LinkedIn** or via email above
 
 ---
 
