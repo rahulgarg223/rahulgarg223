@@ -103,7 +103,7 @@ A machine learning regression model predicting health insurance premium charges 
 
 A Machine learning model using LSTM networks to forecast stock prices based on historical time-series data.
 
-**Tech:** Python, TensorFlow, Keras, NumPy, Pandas  
+**Tech:** Python, TensorFlow, NumPy, Pandas  
 🔗 [View Repository](https://github.com/rahulgarg223/Stock-Price-Prediction-Project)
 
 </details>
