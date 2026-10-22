@@ -1,16 +1,25 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+ <h1 align="center">Hi 👋, I'm Rahul</h1>
+
 <h3 align="center">Alumnus @ IIT Jodhpur | Data Analytics • Machine Learning • Data Science</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+Graduate;Alumnus+@+IIT+Jodhpur;Vibe+Coder+%26+Data+Analytics+%26+ML+Enthusiast;Competitive+Programmer+on+Codeforces;Building+cool+things+with+data+%F0%9F%93%8A" alt="Typing SVG" />
-<!-- </p>
-<img width="1080" height="360" alt="image" src="https://github.com/user-attachments/assets/ba48a8db-92d1-433a-a408-7f6e184252ae" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=B.Tech+Graduate;Alumnus+%40+IIT+Jodhpur;Vibe+Coder+%26+Data+Analytics+%26+ML+Enthusiast;Competitive+Programmer+on+Codeforces;Building+cool+things+with+data+%F0%9F%93%8A" alt="Typing SVG" />
+</p>
 
-
-<p align="center"> -->
-  <a href="https://www.linkedin.com/in/rahul-garg-a02972256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://rahulgarg223.github.io/rahulgarg223.github.io-portfolio/"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Tech_gamer31/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/rahulgarg3104"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-garg-a02972256/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://rahulgarg223.github.io/rahulgarg223.github.io-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/u/Tech_gamer31/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/rahulgarg3104">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
 
 ---
 
